@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Yeon+Sung&display=swap');
+.carousel-caption {
+    position: absolute;
+    top: 15%;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #fffbfd;
+
+}
+body{
+    font-family: 'Yeon Sung';
+
+}
+#search{
+    width: 100px;
+    height: 30px;
+}
+
+.carousel-caption h1{
+    font-family: 'Yeon Sung';
+    font-size: 800%;
+    color: #fff316;
+
+}
+.carousel-caption h2{
+    color: #fff316;
+    font-size: 500%;
+    margin-bottom: 150px;
+}
+
+.carousel-caption button{
+
+    text-shadow: 1px 1px 2px black;
+}
+.carousel-inner img{
+    filter:brightness(60%);
+}
+#slide_show img{
+    filter:brightness(100%);
+}
+
+footer .col-12{
+    background: #1d2124;
+    color: #ffc500;
+}
+
+footer .col-md-4{
+    background: rgba(66,69,70,0.27);
+}
